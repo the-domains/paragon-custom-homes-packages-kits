@@ -28,5 +28,8 @@ navigation:
     url: >-
       http://cdn.maisonparagon.ca/administration/ckeditor/ckfinder/userfiles/files/What's%20the%20Difference%20R3.pdf
     type: external
+  - name: Custom Homes
+    url: 'http://www.paragonhomes.ca/custom-homes.php'
+    type: external
 title: Home Packages
 description: Since 1988
