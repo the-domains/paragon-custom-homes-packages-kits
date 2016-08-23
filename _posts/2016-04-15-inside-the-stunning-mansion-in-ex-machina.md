@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T21:47:37.558Z'
+datePublished: '2016-08-23T22:06:51.083Z'
 sourcePath: _posts/2016-04-15-inside-the-stunning-mansion-in-ex-machina.md
 inFeed: true
 isBasedOnUrl: 'http://www.vanityfair.com/hollywood/2015/04/ex-machina-location'
@@ -20,8 +20,9 @@ author:
   - name: Katey Rich
     url: 'http://www.vanityfair.com/contributor/katey-rich'
     avatar: {}
-dateModified: '2016-08-23T21:47:37.329Z'
-title: Inside the Stunning Mansion in Ex Machina
+via: {}
+dateModified: '2016-08-23T22:06:50.799Z'
+title: Inside the Stunning Paragon Homes Package-Kit
 app_links: []
 publisher:
   url: 'http://www.vanityfair.com'
@@ -29,17 +30,16 @@ publisher:
   favicon: 'http://www.vanityfair.com/favicon.ico'
   domain: www.vanityfair.com
 description: >-
-  There are many stunning, otherworldly sights in Ex Machina, the
-  science-fiction film directed by Alex Garland that features a robot so
-  lifelike she's played by actress Alicia Vikander. But the most breathtaking
-  sight of all may be the 100 percent real, available-for-a-night's-stay
-  location where the film is set: the Juvet Landscape Hotel in Norway.
+  We can provide you with a complete home package kit featuring the best value
+  in framing lumber, windows and doors, roofing and all other construction
+  materials, delivered to your job site anywhere in Ontario or Quebec, Canada.
+  Our kits are all-inclusive, with no surprises, and feature our own unique R-32
+  Paragon Wall system for superb energy efficiency.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Inside the Stunning Mansion in Ex Machina</h1><p>There are many stunning, otherworldly sights in Ex Machina, the science-fiction film directed by Alex Garland that features a robot so lifelike she's played by actress Alicia Vikander. But the most breathtaking sight of all may be the 100 percent real, available-for-a-night's-stay location where the film is set: the Juvet Landscape Hotel in Norway.</p><img src="http://media.vanityfair.com/photos/553922f843ab7eb66f6a3342/master/w_900,c_limit/ex-machina-design-4.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/681669ff82d513a623869d49c9b8fe8ee3c88229.jpg" /><h1>Inside the Stunning Paragon Homes Package-Kit</h1><p>We can provide you with a complete home package kit featuring the best value in framing lumber, windows and doors, roofing and all other construction materials, delivered to your job site anywhere in Ontario or Quebec, Canada. Our kits are all-inclusive, with no surprises, and feature our own unique R-32 Paragon Wall system for superb energy efficiency.</p></article>
