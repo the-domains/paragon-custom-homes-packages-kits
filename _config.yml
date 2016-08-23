@@ -16,5 +16,9 @@ navigation:
   - name: Home Packages
     url: 'http://www.paragonhomes.ca/custom-home-construction-packages.php'
     type: external
+  - name: Details of Kit Inclusions
+    url: >-
+      http://cdn.maisonparagon.ca/administration/ckeditor/ckfinder/userfiles/files/Kit%20Details%20EN%20Feb15.PDF
+    type: external
 title: Home Packages
 description: Since 1988
