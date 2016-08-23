@@ -11,6 +11,10 @@ color:
     - '#3A6EA5'
     - '#004E98'
 layout_spectrum: 0.2586533713620156
+author:
+  name: Frank Murray
+  email: fmurray@maisonparagonhomes.ca
+  url: www.paragonhomes.ca
 name: Paragon Custom Homes Packages-Kits
 navigation:
   - name: Home Packages
