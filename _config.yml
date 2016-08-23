@@ -20,5 +20,9 @@ navigation:
     url: >-
       http://cdn.maisonparagon.ca/administration/ckeditor/ckfinder/userfiles/files/Kit%20Details%20EN%20Feb15.PDF
     type: external
+  - name: R-32 Wall System
+    url: >-
+      http://cdn.maisonparagon.ca/administration/ckeditor/ckfinder/userfiles/files/R32%20Wall%20En%20Mar14_13.png
+    type: external
 title: Home Packages
 description: Since 1988
