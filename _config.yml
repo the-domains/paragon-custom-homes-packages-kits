@@ -24,5 +24,9 @@ navigation:
     url: >-
       http://cdn.maisonparagon.ca/administration/ckeditor/ckfinder/userfiles/files/R32%20Wall%20En%20Mar14_13.png
     type: external
+  - name: 'What’s the Difference? '
+    url: >-
+      http://cdn.maisonparagon.ca/administration/ckeditor/ckfinder/userfiles/files/What's%20the%20Difference%20R3.pdf
+    type: external
 title: Home Packages
 description: Since 1988
