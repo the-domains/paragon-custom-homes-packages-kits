@@ -12,5 +12,9 @@ color:
     - '#004E98'
 layout_spectrum: 0.2586533713620156
 name: Paragon Custom Homes Packages-Kits
+navigation:
+  - name: Home Packages
+    url: 'http://www.paragonhomes.ca/custom-home-construction-packages.php'
+    type: external
 title: Home Packages
 description: Since 1988
